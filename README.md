@@ -1,4 +1,4 @@
-# GroupBlacklist 群组黑名单
+# GroupBlacklist 组黑名单
 
 - 作者: 星梦
 - 出处: `https://github.com/ICU-Club`
